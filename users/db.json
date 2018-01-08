@@ -1,12 +1,38 @@
 {
   "users": [
-    {"id": "23", "firstName": "Bill", "age": 20, "companyId": "1"},
-    {"id": "40", "firstName": "Alex", "age": 40, "companyId": "2"},
-    {"id": "30", "firstName": "Steve", "age": 30, "companyId": "2"}
+    {
+      "id": "40",
+      "firstName": "Alex",
+      "age": 40,
+      "companyId": "2"
+    },
+    {
+      "id": "30",
+      "firstName": "Steve",
+      "age": 30,
+      "companyId": "2"
+    },
+    {
+      "firstName": "Kyle",
+      "age": 23,
+      "id": "nZKfT0Y"
+    },
+    {
+      "firstName": "Kyle",
+      "age": 23,
+      "id": "1IbSyt5"
+    }
   ],
   "companies": [
-    { "id": "1", "name": "apple", "description": "iphone"},
-    { "id": "2", "name": "Google", "description": "search"}
+    {
+      "id": "1",
+      "name": "apple",
+      "description": "iphone"
+    },
+    {
+      "id": "2",
+      "name": "Google",
+      "description": "search"
+    }
   ]
 }
-
